@@ -1,0 +1,2 @@
+# AWSTest
+Explore of GIT
